@@ -44,11 +44,11 @@ global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = ""
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 898-1614-707'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -62,8 +62,8 @@ global.packname = data.namabot;
 global.author = data.owner;
 
 //=========== Requirements ==========//  
-        global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong1 = ''
+        global.colong2 = 'MFC BOTZ'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
