@@ -43,8 +43,8 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 global.Intervalmsg = 1800 //detik
 
 //========Url Template Buttons=========//
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = ""
+global.dtu = 'GLOBAL LINK GROUP'
+global.urlnya = "https://chat.whatsapp.com/G5fMg5scXbp4EK0SYSwego"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
